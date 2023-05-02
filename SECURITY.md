@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any Evooq-owned reposi
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please send an email to [security@evooq.ch](mailto:security@evooq.ch).
+Instead, please use the "Report a vulnerability" feature that can be found in the repository's "Security" panel, or send an email to [security@evooq.ch](mailto:security@evooq.ch).
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
